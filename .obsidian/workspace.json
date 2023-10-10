@@ -1,0 +1,153 @@
+{
+  "main": {
+    "id": "811dab292251ae43",
+    "type": "split",
+    "children": [
+      {
+        "id": "d65597662dc0407e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c870b21605805021",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "需求/Support committing in batches in optimize action.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f62ef4bde3725ad1",
+    "type": "split",
+    "children": [
+      {
+        "id": "8896e627338bff3d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c5f8993e2f90fcca",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6670783764b77673",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9e44aa31bc5f53ed",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "381390ecfd42e8eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "372d13a3a4ed9289",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bdcf7497145f13d1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "需求/Support committing in batches in optimize action.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5944316853d9871f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "需求/Support committing in batches in optimize action.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b5852f354f6618fe",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ba5d9d5e47d91859",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "需求/Support committing in batches in optimize action.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "c5f8993e2f90fcca",
+  "lastOpenFiles": [
+    "简历投递情况/总结.md"
+  ]
+}
